@@ -138,6 +138,10 @@ namespace IntroToLinq
             //}
 
             // Challenge
+
+            // TODO: Using .Join Method (Print product_name, category_name)
+
+            // TODO: using eager loading (Print product_name, category_name, brand_name)
         }
     }
 }
