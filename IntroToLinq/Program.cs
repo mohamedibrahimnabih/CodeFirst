@@ -130,12 +130,14 @@ namespace IntroToLinq
             //        Min = g.Min(e => e.ListPrice),
             //        Max = g.Max(e => e.ListPrice),
             //    });
-                                                                    
+
 
             //foreach (var item in result)
             //{
             //    Console.WriteLine($"state: {item.ModelYear}, Avg: {item.Avg.ToString("c")}, Min: {item.Min.ToString("c")}, Max: {item.Max.ToString("c")}");
             //}
+
+            // Challenge
         }
     }
 }
