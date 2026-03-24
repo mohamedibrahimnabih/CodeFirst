@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CodeFirst/CodeFirst.csproj" />
+  <Project Path="IntroToLinq/IntroToLinq.csproj" Id="69132112-bd3e-4f6b-acf0-868186a1ae81" />
+  <Project Path="SolveChallenge/SolveChallenge.csproj" />
+</Solution>
